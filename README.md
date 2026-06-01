@@ -22,7 +22,7 @@ Uma calculadora web desenvolvida com HTML, CSS e JavaScript puro, com suporte a 
 
 Acesse o projeto pelo link abaixo ou clone o repositório e abra o arquivo `index.html` no navegador:
 
-🔗 **[https://joaosecondo99.github.io/Projeto-Calculadora/]**
+🔗 **[Acessar projeto](https://joaosecondo99.github.io/Projeto-Calculadora/)**
 
 ## 📁 Estrutura do projeto
 
