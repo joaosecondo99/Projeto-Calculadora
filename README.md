@@ -22,7 +22,7 @@ Uma calculadora web desenvolvida com HTML, CSS e JavaScript puro, com suporte a 
 
 Acesse o projeto pelo link abaixo ou clone o repositório e abra o arquivo `index.html` no navegador:
 
-🔗 **[https://joaosecondo99.github.io/Projeto-Calculadora/](#)** ← substitua pelo link do GitHub Pages
+🔗 **[https://joaosecondo99.github.io/Projeto-Calculadora/]**
 
 ## 📁 Estrutura do projeto
 
@@ -44,4 +44,4 @@ Projeto desenvolvido durante curso de JavaScript, com foco em:
 
 ## 👨‍💻 Autor
 
-Feito por **João Victor Secondo** — [[LinkedIn]](https://www.linkedin.com/in/joaosecondo/)(#) · [[GitHub](https://github.com/joaosecondo99)](#)
+Feito por **João Victor Secondo** — [[LinkedIn]](https://www.linkedin.com/in/joaosecondo/) · [[GitHub](https://github.com/joaosecondo99)]
